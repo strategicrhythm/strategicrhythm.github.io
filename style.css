@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
-  background-color: #ddd;
+  background-color: #FFF;
   font-size: 14px;
 }
 
@@ -112,16 +112,22 @@ span.red {
   color: red;
 }
 
-#maincontainer {
+h1#about {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
     margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
-#pagetop-header {
-    padding-bottom: 9px;
-    margin: 40px 0 20px;
+h1.project {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
     text-align: center;
 }
